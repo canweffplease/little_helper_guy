@@ -1,10 +1,10 @@
 hello :)
 
-###Little Helper Guy (LHG) (lol)
+### Little Helper Guy (LHG) (lol)
 
-##Websocket Server
+## Websocket Server
  - C++ using either built in or Crow framework
 
-##Device
+## Device
  - esp12
  - C++ (Arduino)
