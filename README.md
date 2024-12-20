@@ -1,6 +1,6 @@
 hello :)
 
-## Little Helper Guy (LHG) (lol)
+## Little Helper Guy (LHG)
 
 ### Websocket Server
  - C++ using either built in or Crow framework
